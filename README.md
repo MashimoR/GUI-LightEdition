@@ -10,7 +10,7 @@
  なお、サンプルとしてのご提供のため、動作保証やお問い合わせ等のサポートは承っておりません。  
  ご利用にあたりユーザーズガイドをご用意しておりますので、ご参照ください。  
 
- なお、サンプルコードへのご意見・ご要望につきましては、[GitHubのIssue](https://github.com/EkispertWebService/GUI-LightEdition/issues/new)へ投稿いただけますと幸いです。  
+ サンプルコードへのご意見・ご要望につきましては、[GitHubのIssue](https://github.com/EkispertWebService/GUI-LightEdition/issues/new)へ投稿いただけますと幸いです。  
  今後のサンプルご提供にあたり参考とさせていただきます。  
 
  * **お申込み**
